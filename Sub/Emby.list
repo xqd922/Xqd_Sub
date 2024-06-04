@@ -1,192 +1,130 @@
-payload:
-  # 内容：EMBY公益服地址
-  # 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)↓↓↓↓↓↓↓↓↓
-
-# > ↓↓↓↓↓↓↓↓↓（Emby影视的分流）↓↓↓↓↓↓↓↓↓
-#Emby-MisakaF
-  - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,emby.misakaf.org
-  - DOMAIN-SUFFIX,102.223.180.108
-  - DOMAIN-SUFFIX,push-kr.misakaf.org
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
-  - DOMAIN-SUFFIX,stream4.misakaf.org
-  - DOMAIN-SUFFIX,emby.aca.best
-
-#Emby-Porn
-  - DOMAIN-SUFFIX,pornemby.club
-
-#Emby-odysseyplus
-  - DOMAIN-SUFFIX,cf.odysseyplus.site
-  - DOMAIN-SUFFIX,sg.odysseyplus.site
-  - DOMAIN-SUFFIX,us.odysseyplus.site
-  - DOMAIN-SUFFIX,kr.odysseyplus.site
-  - DOMAIN-SUFFIX,jp.odysseyplus.site
-  - DOMAIN-SUFFIX,jp2.odysseyplus.site
-  
-#Emby-PiliPili
-  - DOMAIN-SUFFIX,emby.pilipiliultra.top
-  - DOMAIN-SUFFIX,emby.pilipiliultra.com
-  - DOMAIN-SUFFIX,manga.pilipiliultra.com
-
-#Emby-1111
-  - DOMAIN-SUFFIX,cf.xmsl.org
-  - DOMAIN-SUFFIX,free.xmsl.org
-  - DOMAIN-SUFFIX,ccde.loseremby.org
-
-#Emby-纸片人
-  - DOMAIN-SUFFIX,embyplus.org
-
-#Emby-infinityfly
-  - DOMAIN-SUFFIX,aws-sg.669998.xyz
-  - DOMAIN-SUFFIX,infinityfly.top
-  - DOMAIN-SUFFIX,nc2.infinityfly.top
-
-#Emby-终点站
-  - DOMAIN-SUFFIX,pub1.emby.wtf
-  - DOMAIN-SUFFIX,pub2.emby.wtf
-  - DOMAIN-SUFFIX,pub3.emby.wtf
-
-#Emby-鹅服
-  - DOMAIN-SUFFIX,tv.the98.ltd
-
-#Emby-卷毛鼠公益服
-  - DOMAIN-SUFFIX,cf.jmsooo.com
-
-#Emby-MJJ
-  - DOMAIN-SUFFIX,direct.mjjemby.org
-  - DOMAIN-SUFFIX,sg01.mjjemby.org
-  - DOMAIN-SUFFIX,cf.mjjemby.org
-  - DOMAIN-SUFFIX,jp01.mjjemby.org
-  - DOMAIN-SUFFIX,jp02.mjjemby.org
-  - DOMAIN-SUFFIX,kr.mjjemby.org
-
-#Emby-Magic Cloud（魔法）
-  - DOMAIN-SUFFIX,emby.freetz.top
-  - DOMAIN-SUFFIX,cf.freetz.top
-  - DOMAIN-SUFFIX,kr.freetz.top
-
-#Emby-CC公益服
-  - DOMAIN-SUFFIX,cc.ccemby.tk
-  - DOMAIN-SUFFIX,cc.coemn.com
-
-#Emby-Peach公益服
-  - DOMAIN-SUFFIX,embymv.tk
-
-#Emby-GuGu Media
-  - DOMAIN-SUFFIX,main.gugumedia.link
-  - DOMAIN-SUFFIX,pro.gugumedia.link
-  - DOMAIN-SUFFIX,front.gugumedia.link
-
-#Emby-loser
-  - DOMAIN-SUFFIX,cf.xmsl.org
-  - DOMAIN-SUFFIX,free.xmsl.org
-  - DOMAIN-SUFFIX,line.xmsl.org
-#Emby-loser求片地址
-  - DOMAIN-SUFFIX,up.xmsl.org
-
-#Emby-loser公费
-  - DOMAIN-SUFFIX,line.xmsl.org
-  - DOMAIN-SUFFIX,cfde.xmsl.org
-  - DOMAIN-SUFFIX,pm.xmsl.org
-
-#Emby-Club（魔仙堡）
-  - DOMAIN-SUFFIX,emby.kim
-
-#Emby-SYN Streaming KFC
-  - DOMAIN-SUFFIX,ntrrr.am.sb
-  - DOMAIN-SUFFIX,stream.ntrrr.top
-  - DOMAIN-SUFFIX,stream.synn.cc.top
-
-#Emby-无敌风火轮
-  - DOMAIN-SUFFIX,ycxdy.top
-  - DOMAIN-SUFFIX,emby1.ycxdy.top
-  - DOMAIN-SUFFIX,emby2.ycxdy.top
-  - DOMAIN-SUFFIX,emby3.ycxdy.top
-  - DOMAIN-SUFFIX,emby4.ycxdy.top
-  - DOMAIN-SUFFIX,emby5.ycxdy.top
-  - DOMAIN-SUFFIX,emby6.ycxdy.top
-
-#Emby-custom（二次元）
-  - DOMAIN-SUFFIX,media.nijigem.by
-
-#Emby-Paul_电报
-  - DOMAIN-SUFFIX,cf.imetyou.top
-  - DOMAIN-SUFFIX,emby.imetyou.top
-  - DOMAIN-SUFFIX,fk.imetyou.top
-  - DOMAIN-SUFFIX,kr.imetyou.top
-  - DOMAIN-SUFFIX,sg.imetyou.top
-  - DOMAIN-SUFFIX,chun.imetyou.top
-
-#Emby-酷安
-  - DOMAIN-SUFFIX,94.16.122.183
-  - DOMAIN-SUFFIX,kuan2.yutron.eu.org
-
-#Emby-nyamedia
-  - DOMAIN-SUFFIX,emby.bangumi.ca
-
-#Emby-TreeDiagram
-  - DOMAIN-SUFFIX,789.123456.al
-
-#Emby-Temby
-  - DOMAIN-SUFFIX,temby.285286.xyz
-  - DOMAIN-SUFFIX,temby4837.285286.xyz.top
-
-#Emby-Singularity（新瓜）
-  - DOMAIN-SUFFIX,singularity.bagpipe.moe
-
-#Emby-Lend
-  - DOMAIN-SUFFIX,emby.lcloud.wiki
-
-#Emby-Ciji
-  - DOMAIN-SUFFIX,sr.809688.xyz
-  - DOMAIN-SUFFIX,sm.809688.xyz
-  - DOMAIN-SUFFIX,jpp.809688.xyz
-  - DOMAIN-SUFFIX,sg.809688.xyz
-  - DOMAIN-SUFFIX,ss.809688.xyz
-
-#Emby-NMEmby
-  - DOMAIN-SUFFIX,film.ohhhh.org
-
-#Emby-叔服
-  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
-
-#Emby-儿童服
-  - DOMAIN-SUFFIX,free.poloemby.xyz
-
-#Emby-Marmot（土拨鼠）
-  - DOMAIN-SUFFIX,v.20120714.xyz
-
-#Emby-卡戎
-  - DOMAIN-SUFFIX,play.charontv.com
-
-#Emby-MICU Cloud Media
-  - DOMAIN-SUFFIX,tv.micu.hk
-
-#Emby-Lyrebird琴鸟
-  - DOMAIN-SUFFIX,167.235.116.53
-  - DOMAIN-SUFFIX,direct.lyrebirdemby.com
-  - DOMAIN-SUFFIX,cdn.lyrebirdemby.com
-
-#Emby-CbCb（不纯洁）
-  - DOMAIN-SUFFIX,emby.jzq.lol
-  - DOMAIN-SUFFIX,emby.cbcb.lol
-
-# > ↓↓↓↓↓↓↓↓↓（Emby机场服的分流）↓↓↓↓↓↓↓↓↓
-#Emby-HXD（好鸭机场服）
-  - DOMAIN-SUFFIX,bili.bili.rip
-  - DOMAIN-SUFFIX,cdn.bili.rip
-  - DOMAIN-SUFFIX,cf.bili.rip
-
-#Emby-JMS（好鸭机场服）
-  - DOMAIN-SUFFIX,e.niceduck.me
-
-#Emby-GuGu(守候机场服)
-  - DOMAIN-SUFFIX,emby.cn2gias.uk
-
-# > ↓↓↓↓↓↓↓↓↓（Emby音乐的分流）↓↓↓↓↓↓↓↓↓
-#Paul-电报服
-  - DOMAIN-SUFFIX,chunmusic.imetyou.top
-  - DOMAIN-SUFFIX,music.imetyou.top
-  - DOMAIN-SUFFIX,cfmusic.imetyou.top
+DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.flowercloud.yt
+DOMAIN-SUFFIX,emby.maying.club
+DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,embyserver.ga
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,emby.otakudrive.life
+DOMAIN-SUFFIX,emby2.otakudrive.life
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,emby.immtel.com
+DOMAIN-SUFFIX,cf.odysseyplus.site
+DOMAIN-SUFFIX,agahk.odysseyplus.site
+DOMAIN-SUFFIX,agasg.odysseyplus.site
+DOMAIN-SUFFIX,ru.odysseyplus.site
+DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,emby.run
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-sg.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,hk.jmsooo.com
+DOMAIN-SUFFIX,sg.jmsooo.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,pub1back.emby.wtf
+DOMAIN-SUFFIX,pub2back.emby.wtf
+DOMAIN-SUFFIX,pub3back.emby.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,embyclub.com
+DOMAIN-SUFFIX,az-hk.embyclub.com
+DOMAIN-SUFFIX,azsgp.embyclub.com
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,emby.p-p.men
+DOMAIN-SUFFIX,emby.aiyowei.ml
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+DOMAIN-SUFFIX,gfwemby.org
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,cc.ccemby.tk
+DOMAIN-SUFFIX,direct.nebula-emby.com
+DOMAIN-SUFFIX,magpie.cyou
+DOMAIN-SUFFIX,ccemby.tk
+DOMAIN-SUFFIX,embyplus.club
+DOMAIN-SUFFIX,speedx.one
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,mjjemby.org
+DOMAIN-SUFFIX,bddup.com
+DOMAIN-SUFFIX,emby.cl
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,nivod4.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,freetz.top
+DOMAIN-SUFFIX,newwan.top
+DOMAIN-SUFFIX,shuipo.lol
+DOMAIN-SUFFIX,dicarerhome.com
+DOMAIN-SUFFIX,emby77.cf
+DOMAIN-SUFFIX,embyplus.org
+IP-CIDR,188.172.228.49/32
+IP-CIDR,202.61.255.248/32
+DOMAIN-SUFFIX,embytv.cf
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,acemby.org
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,ju.dog
+DOMAIN-SUFFIX,misty.ltd
+DOMAIN-SUFFIX,ednovas.org
+DOMAIN-SUFFIX,deja-vu.beauty
+DOMAIN-SUFFIX,studyfun.live
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,gtlx.org
+DOMAIN-SUFFIX,9191001.xyz
+DOMAIN-SUFFIX,carlos.trade
+DOMAIN-SUFFIX,agon.cf
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,goodisp.org
+DOMAIN-SUFFIX,emby77.org
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,emby.eu.org
+DOMAIN-SUFFIX,wiri.tk
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,zi0.icu
+DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,emby.kim
+DOMAIN-SUFFIX,4545.cf
+DOMAIN-SUFFIX,ggtt.cf
+DOMAIN-SUFFIX,mulgore.net
+DOMAIN-SUFFIX,happyav.eu.org
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,xiaoyi.one
+DOMAIN-SUFFIX,embymv.me
+DOMAIN-SUFFIX,infinityfly.top
+DOMAIN-SUFFIX,lucasmedia.top
+DOMAIN-SUFFIX,nvidia.rip
+DOMAIN-SUFFIX,emby77.org
+DOMAIN-SUFFIX,20120714.xyz
+DOMAIN-SUFFIX,gugumedia.link
+DOMAIN-SUFFIX,dicarerhome.com
+DOMAIN-SUFFIX,starcat.eu.org
+DOMAIN-SUFFIX,catlinks.co.uk
+DOMAIN-SUFFIX,emby.ws
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,9521732.xyz
+DOMAIN-SUFFIX,stream1.misakaf.org
+DOMAIN-SUFFIX,stream2.misakaf.org
+DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
